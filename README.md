@@ -6,7 +6,7 @@ Searching for tags inside webpage content.
 2. Clone the GitHub repository and use pip to install project dependencies.
     <pre><code>
     clone https://github.com/paulocoliveira/extract-text-html.git <br/>
-    cd extract-text-html <br/>
+    Enter in extract-text-html folder <br/>
     pip install -r requirements.txt
     </code></pre>
 # Use
